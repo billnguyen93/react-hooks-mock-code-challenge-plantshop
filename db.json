@@ -41,6 +41,36 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Bill Nguyen",
+      "image": "",
+      "price": 0,
+      "id": 8
+    },
+    {
+      "name": "Bill Nguyen",
+      "image": "",
+      "price": 0,
+      "id": 9
+    },
+    {
+      "name": "Bill Nguyen",
+      "image": "",
+      "price": 0,
+      "id": 10
+    },
+    {
+      "name": "Bill Nguyen",
+      "image": "",
+      "price": 0,
+      "id": 11
+    },
+    {
+      "name": "yogurt",
+      "image": "",
+      "price": 0,
+      "id": 12
     }
   ]
 }
